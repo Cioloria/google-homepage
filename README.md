@@ -1,0 +1,1 @@
+Hi, I'm Cio. I've started my journey in becoming a programmer to support my SO. It's December 11, 2020 right now. Hopefully by the time I read this README.md file I have become a full pledge programmer. Goodluck future self!
